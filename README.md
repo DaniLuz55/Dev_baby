@@ -1,2 +1,3 @@
 # Dev_baby
-Meu primeiro repositório
+Meu primeiro repositório.
+Um desafio encantador.
